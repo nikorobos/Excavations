@@ -8,5 +8,5 @@ A project for the Department of Cultural Heritage Management and New Technologie
 
 Technologies used: Java(Swing Framework), SQLite for the db
 
-![Alt text](https://paste.pics/8520ab9dc4f30177ad1409d470bddaab "Login Screen")
+![login](https://user-images.githubusercontent.com/30929830/105478928-8460d180-5cac-11eb-9e8b-6a7b7115e376.png)
 
